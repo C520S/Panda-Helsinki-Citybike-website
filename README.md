@@ -4,20 +4,20 @@
 
 # ****Description****
 
----
+
 
 I developed this web application as a pre-assignment for the Solita Development Academy in Finland in 2023. It contains comprehensive data on bike-share trips in the Helsinki and Espoo areas for the month of May 2021. Our app offers a range of statistics on user trips, such as station addresses, capacity, number of pick-ups and drop-offs, and average distance between stations. Our user-friendly table format enables easy comparison of statistics from different stations. We have also included a map displaying the location of each station, so you can view the bike stations in their geographic context. Our objective is to furnish an intuitive interface that allows you to access and explore the data with ease.
 
 # Demonstration
 
----
+
 
 - Project presentation video : [https://youtu.be/K4-qSEnbT8E](https://youtu.be/K4-qSEnbT8E)
 - Web link: [https://panda-helsinki-citybike-website.onrender.com](https://panda-helsinki-citybike-website.onrender.com/)
 
 # ****Features****
 
----
+
 
 ## Front End
 
@@ -48,7 +48,7 @@ I developed this web application as a pre-assignment for the Solita Development 
 
 # Automation Testing
 
----
+
 
 ## End-to-end testing
 
@@ -64,7 +64,7 @@ Here is the test report for the REST APIs :
 
 # **Technology choices**
 
----
+
 
 ## Front End
 
@@ -100,7 +100,7 @@ Here is the test report for the REST APIs :
 
 # Bicycle data
 
----
+
 
 ## **Journey details**
 
@@ -113,7 +113,7 @@ Here is the test report for the REST APIs :
 
 # Code Repository
 
----
+
 
 - Front-end code :              [https://github.com/C520S/front-end.git](https://github.com/C520S/front-end.git)
 - Back-end code:                [https://github.com/C520S/backend.git](https://github.com/C520S/backend.git)
@@ -122,13 +122,13 @@ Here is the test report for the REST APIs :
 
 # **Author**
 
----
+
 
 - [https://github.com/C520S?tab=repositories](https://github.com/C520S?tab=repositories)
 
 # ****Usage and Installation****
 
----
+
 
 ## Front-end code
 
@@ -161,7 +161,7 @@ Here is the test report for the REST APIs :
 
 # FAQ
 
----
+
 
 While using the free version of MongoDB Atlas, I was experiencing issues with having to run on a shared CPU and limited cluster space. To optimise the responsiveness of my web pages and improve the overall user experience, I decided to upload only one dataset of journey details to the database.
 
